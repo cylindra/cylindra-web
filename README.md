@@ -56,3 +56,9 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for details.
 - Docker (optional)
 
 ### Installation
+```bash
+git clone https://github.com/cylindra/cylindra-web.git
+cd cylindra-web
+npm install
+npm run dev
+```
